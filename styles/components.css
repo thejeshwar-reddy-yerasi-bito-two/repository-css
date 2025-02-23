@@ -1,0 +1,35 @@
+/* Components */
+.member img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: solid 2px blue;
+}
+
+.contact-form input, .contact-form textarea {
+    display: block;
+    width: 90%;
+    margin-bottom: 1em;
+    padding: 0.5em;
+    border: 1px solid #ccc;
+}
+
+.contact-form textarea {
+    resize: none;
+}
+
+.form-label {
+    display: block;
+    font-weight: bolder;
+}
+
+.buttton {
+    background-color: #0055aa;
+    color: #fff;
+    padding: 0.6em 1.3em;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
