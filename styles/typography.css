@@ -1,0 +1,18 @@
+/* Typography styles */
+h1 {
+    font-size: 2em;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 1.5em;
+    color: grey;
+
+p {
+    font-size: 1em;
+    line-height: 1.8;
+}
+
+.primary-color {
+    color: green;
+}
